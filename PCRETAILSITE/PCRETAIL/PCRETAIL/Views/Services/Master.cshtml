@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PCRETAIL.Models.Service>
+@{
+    ViewData["Title"] = "Заявки мастеру";
+}
+
+<h1>Заявки, назначенные мне</h1>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Нет назначенных заявок.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Название</th>
+                <th>Описание</th>
+                <th>Клиент</th>
+                <th>Статус</th>
+                <th>Дата</th>
+                <th>Действие</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Title</td>
+                    <td>@s.Description</td>
+                    <td>@s.Client?.Email</td>
+                    <td>
+                        <span class="badge bg-@(s.Status switch {
+                            "Pending" => "warning",
+                            "InProgress" => "primary",
+                            "Completed" => "success",
+                            _ => "secondary"
+                        })">@s.Status</span>
+                    </td>
+                    <td>@s.CreatedDate.ToShortDateString()</td>
+                    <td>
+                        <form asp-action="UpdateStatus" method="post" class="d-inline">
+                            <input type="hidden" name="id" value="@s.Id" />
+                            <select name="status" class="form-select form-select-sm d-inline w-auto" onchange="this.form.submit()">
+                                <option value="">Изменить статус</option>
+                                <option value="Pending">Ожидание</option>
+                                <option value="InProgress">В работе</option>
+                                <option value="Completed">Выполнено</option>
+                            </select>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

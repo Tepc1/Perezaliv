@@ -1,0 +1,78 @@
+@model IEnumerable<PCRETAIL.Models.PcConfiguration>
+@{
+    ViewData["Title"] = "Мои сборки";
+    var configurationImageUrls = (ViewBag.ConfigurationImageUrls as IDictionary<int, string>) ?? new Dictionary<int, string>();
+}
+
+<h1>Мои сборки</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Создать новую сборку</a>
+</p>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">У вас пока нет ни одной сборки.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Изображение</th>
+                <th>ID</th>
+                <th>Название</th>
+                <th>Категория</th>
+                <th>Статус</th>
+                <th>Дата создания</th>
+                <th>Кол-во компонентов</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var config in Model)
+            {
+                configurationImageUrls.TryGetValue(config.Id, out var configurationImageUrl);
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrWhiteSpace(configurationImageUrl))
+                        {
+                            <img src="@configurationImageUrl" alt="Изображение сборки" class="img-thumbnail" style="max-height: 80px;" />
+                        }
+                    </td>
+                    <td>@config.Id</td>
+                    <td>@config.Name</td>
+                    <td>@config.Category</td>
+                    <td>
+                        <span class="badge bg-@(config.Status switch {
+                            "Pending" => "warning",
+                            "InProgress" => "primary",
+                            "Completed" => "success",
+                            _ => "secondary"
+                        })">
+                            @(config.Status switch
+                            {
+                                "Pending" => "Ожидание",
+                                "InProgress" => "В работе",
+                                "Completed" => "Выполнено",
+                                _ => config.Status
+                            })
+                        </span>
+                    </td>
+                    <td>@config.CreatedDate.ToShortDateString()</td>
+                    <td>@(config.Components?.Count() ?? 0)</td>
+                    <td class="text-nowrap">
+                        <a asp-action="Details" asp-route-id="@config.Id" class="btn btn-sm btn-info">Детали</a>
+                        <a asp-action="Edit" asp-route-id="@config.Id" class="btn btn-sm btn-warning">Редактировать</a>
+                        <form asp-action="Delete" asp-route-id="@config.Id" method="post" class="d-inline">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Удалить сборку?');">
+                                Удалить
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

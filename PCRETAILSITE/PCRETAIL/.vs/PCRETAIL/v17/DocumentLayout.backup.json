@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\pcretail.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\pcretail.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\models\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\models\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\configurator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\configurator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\models\\pcconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\models\\pcconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\services\\createservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\services\\createservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\services\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\services\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\configurator\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\configurator\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\configurator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\configurator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\services\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\services\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|h:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u043C 05 \u0432\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\pcretailsite\\pcretail\\pcretail\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF85A66-CEC8-43E8-8D57-8749AA26CD9C}|PCRETAIL\\PCRETAIL.csproj|solutionrelative:pcretail\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Controllers\\AccountController.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PCRETAIL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T16:24:52.504Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Models\\Role.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\Role.cs",
+              "RelativeToolTip": "PCRETAIL\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:00:56.113Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfiguratorController.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\ConfiguratorController.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Controllers\\ConfiguratorController.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\ConfiguratorController.cs",
+              "RelativeToolTip": "PCRETAIL\\Controllers\\ConfiguratorController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T16:25:57.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PcConfiguration.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\PcConfiguration.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Models\\PcConfiguration.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\PcConfiguration.cs",
+              "RelativeToolTip": "PCRETAIL\\Models\\PcConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:02:21.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Component.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\Component.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Models\\Component.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\Component.cs",
+              "RelativeToolTip": "PCRETAIL\\Models\\Component.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewAoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:01:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Data\\AppDbContext.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PCRETAIL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:06:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Configurator\\Create.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Configurator\\Create.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Configurator\\Create.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Configurator\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:30:14.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateService.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Services\\CreateService.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Services\\CreateService.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Services\\CreateService.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Services\\CreateService.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:33:10.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:27:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:29:10.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T10:58:10.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:27:05.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Models\\Service.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\Service.cs",
+              "RelativeToolTip": "PCRETAIL\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:02:39.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PCRETAIL.csproj",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\PCRETAIL.csproj",
+              "RelativeDocumentMoniker": "PCRETAIL\\PCRETAIL.csproj",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\PCRETAIL.csproj",
+              "RelativeToolTip": "PCRETAIL\\PCRETAIL.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T17:09:03.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PCRETAIL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:10:03.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Services\\Client.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Services\\Client.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Services\\Client.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Services\\Client.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:32:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Configurator\\Details.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Configurator\\Details.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Configurator\\Details.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Configurator\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:30:35.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\appsettings.json",
+              "RelativeDocumentMoniker": "PCRETAIL\\appsettings.json",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\appsettings.json",
+              "RelativeToolTip": "PCRETAIL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T13:17:26.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InitialCreate.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Migrations\\InitialCreate.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Migrations\\InitialCreate.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Migrations\\InitialCreate.cs",
+              "RelativeToolTip": "PCRETAIL\\Migrations\\InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:06:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Account\\Index.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T10:23:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Controllers\\AdminController.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PCRETAIL\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:23:16.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:34:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Controllers\\HomeController.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PCRETAIL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:16:53.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:35:29.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Master.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Services\\Master.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Services\\Master.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Services\\Master.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Services\\Master.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:33:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Configurator\\Index.cshtml",
+              "RelativeDocumentMoniker": "PCRETAIL\\Views\\Configurator\\Index.cshtml",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Views\\Configurator\\Index.cshtml",
+              "RelativeToolTip": "PCRETAIL\\Views\\Configurator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T08:29:51.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Program.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Program.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Program.cs",
+              "RelativeToolTip": "PCRETAIL\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwFoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T16:23:24.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PCRETAIL\\Models\\User.cs",
+              "ToolTip": "H:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u041F\u041C 05 \u0412\u0430\u0432\u0438\u043B\u0438\u043D\u0430\\#\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\Models\\User.cs",
+              "RelativeToolTip": "PCRETAIL\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:59:13.999Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

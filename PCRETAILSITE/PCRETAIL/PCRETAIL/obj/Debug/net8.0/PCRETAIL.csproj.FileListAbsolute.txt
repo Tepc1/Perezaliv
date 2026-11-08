@@ -1,0 +1,809 @@
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.AssemblyReference.cache
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rpswa.dswa.cache.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.AssemblyInfoInputs.cache
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.AssemblyInfo.cs
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.CoreCompileInputs.cache
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.MvcApplicationPartsAssemblyInfo.cache
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.RazorAssemblyInfo.cache
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.RazorAssemblyInfo.cs
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\appsettings.Development.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\appsettings.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.staticwebassets.runtime.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.staticwebassets.endpoints.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.exe
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.deps.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.runtimeconfig.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.pdb
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Azure.Core.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Azure.Identity.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Humanizer.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.ClientModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.CodeDom.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\bundle\PCRETAIL.styles.css
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\projectbundle\PCRETAIL.bundle.scp.css
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.json.cache
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.development.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.Up2Date
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\refint\PCRETAIL.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.pdb
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.genruntimeconfig.cache
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\ref\PCRETAIL.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\appsettings.Development.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\appsettings.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\PCRETAIL.staticwebassets.runtime.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\PCRETAIL.staticwebassets.endpoints.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\PCRETAIL.exe
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\PCRETAIL.deps.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\PCRETAIL.runtimeconfig.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\PCRETAIL.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\PCRETAIL.pdb
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Azure.Core.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Azure.Identity.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Humanizer.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.AspNetCore.Authentication.Negotiate.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.CodeAnalysis.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.CodeAnalysis.CSharp.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.EntityFrameworkCore.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.EntityFrameworkCore.Design.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.Caching.Memory.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.DependencyInjection.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.DependencyModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.Features.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.Logging.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Extensions.Options.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Identity.Client.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.IdentityModel.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.IdentityModel.Logging.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.IdentityModel.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.IdentityModel.Tokens.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Microsoft.SqlServer.Server.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\Mono.TextTemplating.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.ClientModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.CodeDom.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Composition.AttributedModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Composition.Convention.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Composition.Hosting.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Composition.Runtime.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Composition.TypedParts.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Configuration.ConfigurationManager.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Diagnostics.EventLog.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.IdentityModel.Tokens.Jwt.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Memory.Data.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Security.Cryptography.Pkcs.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\System.Security.Cryptography.ProtectedData.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\de\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\es\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\it\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\cs\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\de\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\es\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\fr\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\it\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ja\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ko\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pl\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\ru\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\tr\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\appsettings.Development.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\appsettings.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.deps.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.runtimeconfig.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.staticwebassets.endpoints.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.staticwebassets.runtime.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\appsettings.Development.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\appsettings.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\build-temp\appsettings.Development.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\build-temp\appsettings.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\build-temp\PCRETAIL.deps.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\build-temp\PCRETAIL.runtimeconfig.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\build-temp\PCRETAIL.staticwebassets.endpoints.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\build-temp\PCRETAIL.staticwebassets.runtime.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\PCRETAIL.staticwebassets.runtime.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\PCRETAIL.staticwebassets.endpoints.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\PCRETAIL.exe
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\PCRETAIL.deps.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\PCRETAIL.runtimeconfig.json
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\PCRETAIL.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\PCRETAIL.pdb
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Azure.Core.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Azure.Identity.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Humanizer.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.AspNetCore.Authentication.Negotiate.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.CodeAnalysis.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.CodeAnalysis.CSharp.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.EntityFrameworkCore.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.EntityFrameworkCore.Design.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.Caching.Memory.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.DependencyInjection.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.DependencyModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.Features.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.Logging.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Extensions.Options.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Identity.Client.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.IdentityModel.Abstractions.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.IdentityModel.Logging.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.IdentityModel.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.IdentityModel.Tokens.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Microsoft.SqlServer.Server.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\Mono.TextTemplating.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.ClientModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.CodeDom.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Composition.AttributedModel.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Composition.Convention.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Composition.Hosting.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Composition.Runtime.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Composition.TypedParts.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Configuration.ConfigurationManager.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Diagnostics.EventLog.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.IdentityModel.Tokens.Jwt.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Memory.Data.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Security.Cryptography.Pkcs.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\System.Security.Cryptography.ProtectedData.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\de\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\es\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\it\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\cs\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\de\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\es\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\fr\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\it\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ja\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ko\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pl\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\ru\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\tr\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\build-temp\verify\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\appsettings.Development.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\appsettings.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\appsettings.Development.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\appsettings.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.deps.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.runtimeconfig.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.staticwebassets.endpoints.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.staticwebassets.runtime.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.deps.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.runtimeconfig.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.staticwebassets.endpoints.json
+h:\Работа\ПМ 05 Вавилина\#курсовой\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.staticwebassets.runtime.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\appsettings.Development.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\appsettings.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\appsettings.Development.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\appsettings.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.deps.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.runtimeconfig.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.staticwebassets.endpoints.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.staticwebassets.runtime.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\appsettings.Development.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\appsettings.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\appsettings.Development.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\appsettings.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.deps.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.runtimeconfig.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.staticwebassets.endpoints.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.staticwebassets.runtime.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.deps.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.runtimeconfig.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.staticwebassets.endpoints.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.staticwebassets.runtime.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.staticwebassets.runtime.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.staticwebassets.endpoints.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.exe
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.deps.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.runtimeconfig.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.pdb
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Azure.Core.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Azure.Identity.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Humanizer.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.ClientModel.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.CodeDom.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Memory.Data.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.AssemblyReference.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.AssemblyInfoInputs.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.AssemblyInfo.cs
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.CoreCompileInputs.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.MvcApplicationPartsAssemblyInfo.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.RazorAssemblyInfo.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.RazorAssemblyInfo.cs
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.sourcelink.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\bundle\PCRETAIL.styles.css
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\projectbundle\PCRETAIL.bundle.scp.css
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.development.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\swae.build.ex.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.Up2Date
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\refint\PCRETAIL.dll
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.pdb
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.genruntimeconfig.cache
+F:\PROJECTS\GIT\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\ref\PCRETAIL.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\appsettings.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\appsettings.Development.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\appsettings.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.deps.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.runtimeconfig.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.staticwebassets.endpoints.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\PCRETAIL.staticwebassets.runtime.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\appsettings.Development.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\appsettings.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\appsettings.Development.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\appsettings.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.deps.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.runtimeconfig.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.staticwebassets.endpoints.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\build-temp\PCRETAIL.staticwebassets.runtime.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.deps.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.runtimeconfig.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.staticwebassets.endpoints.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\build-temp\verify\PCRETAIL.staticwebassets.runtime.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.staticwebassets.runtime.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.staticwebassets.endpoints.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.exe
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.deps.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.runtimeconfig.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.runtimeconfig.dev.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\PCRETAIL.pdb
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Humanizer.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.AssemblyReference.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\dotnet-watch\browser-tools-key.public.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\dotnet-watch\browser-tools-key.private.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.AssemblyInfoInputs.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.AssemblyInfo.cs
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.CoreCompileInputs.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.RazorAssemblyInfo.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.RazorAssemblyInfo.cs
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.sourcelink.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\jsmodules\jsmodules.build.manifest.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\scopedcss.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\bundle\PCRETAIL.styles.css
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\scopedcss\projectbundle\PCRETAIL.bundle.scp.css
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.csproj.Up2Date
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\refint\PCRETAIL.dll
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.pdb
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\PCRETAIL.genruntimeconfig.cache
+C:\Users\charik\Desktop\PP06\PCRETAILSITE\PCRETAIL\PCRETAIL\obj\Debug\net8.0\ref\PCRETAIL.dll

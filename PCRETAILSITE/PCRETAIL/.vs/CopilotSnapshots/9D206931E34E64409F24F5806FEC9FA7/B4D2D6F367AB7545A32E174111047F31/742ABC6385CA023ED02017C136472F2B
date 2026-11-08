@@ -1,0 +1,58 @@
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using PCRETAIL.Data;
+using System.Security.Claims;
+
+namespace PCRETAIL.Controllers
+{
+    public class AccountController : Controller
+    {
+        private readonly AppDbContext _context;
+
+        public AccountController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public IActionResult Login() => View();
+
+        [HttpPost]
+        public async Task<IActionResult> Login(string email, string password)
+        {
+            var user = _context.Users.FirstOrDefault(u => u.Email == email);
+            if (user == null || user.PasswordHash != password) // прямое сравнение
+            {
+                ModelState.AddModelError("", "Неверный email или пароль");
+                return View();
+            }
+
+            var role = await _context.Roles.FindAsync(user.RoleId);
+            if (role == null)
+            {
+                ModelState.AddModelError("", "Роль пользователя не найдена");
+                return View();
+            }
+
+            var claims = new List<Claim>
+            {
+               new Claim(ClaimTypes.Name, user.Email),
+               new Claim(ClaimTypes.Role, role.Name),
+               new Claim("UserId", user.Id.ToString())
+            };
+
+            var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(identity));
+            return RedirectToAction("Index", "Home");
+           }
+
+        [HttpPost]
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Index", "Home");
+        }
+    }
+}

@@ -1,0 +1,88 @@
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using PCRETAIL.Data;
+using PCRETAIL.Models;
+using System.Linq;
+using System.Security.Claims;
+
+namespace PCRETAIL.Controllers
+{
+    [Authorize]
+    public class ConfiguratorController : Controller
+    {
+        private readonly AppDbContext _context;
+
+        public ConfiguratorController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<IActionResult> Index()
+        {
+            var userId = GetCurrentUserId();
+            var configs = await _context.PcConfigurations
+                .Include(c => c.Components)
+                .Where(c => c.UserId == userId)
+                .ToListAsync();
+            return View(configs);
+        }
+
+        public async Task<IActionResult> Create()
+        {
+            ViewBag.Components = await _context.Components.ToListAsync();
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(PcConfiguration model, int[] selectedComponents)
+        {
+            if (ModelState.IsValid)
+            {
+                model.UserId = GetCurrentUserId();
+                model.CreatedDate = DateTime.Now;
+
+                if (selectedComponents != null && selectedComponents.Any())
+                {
+                    var components = await _context.Components
+                        .Where(c => selectedComponents.Contains(c.Id))
+                        .ToListAsync();
+                    model.Components = components;
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Выберите хотя бы один компонент.");
+                    ViewBag.Components = await _context.Components.ToListAsync();
+                    return View(model);
+                }
+
+                _context.PcConfigurations.Add(model);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+
+            ViewBag.Components = await _context.Components.ToListAsync();
+            return View(model);
+        }
+        public async Task<IActionResult> Details(int id)
+        {
+            var config = await _context.PcConfigurations
+                .Include(c => c.Components)
+                .Include(c => c.User)
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+            if (config == null) return NotFound();
+
+            ViewBag.TotalPrice = (config.Components?.Sum(c => c.Price)) ?? 0m;
+            return View(config);
+        }
+
+        private int GetCurrentUserId()
+        {
+            var claim = User?.FindFirstValue("UserId");
+            if (int.TryParse(claim, out var id)) return id;
+            throw new InvalidOperationException("User ID claim not found or invalid");
+        }
+    }
+}

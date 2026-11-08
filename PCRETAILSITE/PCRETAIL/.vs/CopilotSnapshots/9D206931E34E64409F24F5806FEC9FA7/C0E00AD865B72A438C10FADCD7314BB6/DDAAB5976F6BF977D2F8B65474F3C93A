@@ -1,0 +1,53 @@
+﻿@model PCRETAIL.Models.PcConfiguration
+@{
+    ViewData["Title"] = "Новая сборка";
+    var components = (ViewBag.Components as IEnumerable<PCRETAIL.Models.Component>) ?? Enumerable.Empty<PCRETAIL.Models.Component>();
+    var types = new[] { "CPU", "GPU", "RAM", "PSU", "Motherboard", "Case" };
+}
+
+<h1>Создание новой сборки</h1>
+
+<form asp-action="Create">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Category" class="form-label"></label>
+                <input asp-for="Category" class="form-control" />
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+
+    <h4 class="mt-4">Выберите комплектующие</h4>
+    <div class="row">
+        @foreach (var type in types)
+        {
+            <div class="col-md-4 mb-3">
+                <label class="form-label fw-bold">@type</label>
+                <div class="border p-2" style="max-height: 200px; overflow-y: auto;">
+                    @foreach (var comp in components.Where(c => c.Type == type))
+                    {
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="selectedComponents" value="@comp.Id" id="comp_@comp.Id" />
+                            <label class="form-check-label" for="comp_@comp.Id">
+                                @comp.Name - @comp.Price руб.
+                            </label>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить сборку</button>
+    <a asp-action="Index" class="btn btn-secondary">Отмена</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

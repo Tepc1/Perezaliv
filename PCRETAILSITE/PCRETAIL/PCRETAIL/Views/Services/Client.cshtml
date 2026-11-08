@@ -1,0 +1,70 @@
+@model IEnumerable<PCRETAIL.Models.Service>
+@{
+    ViewData["Title"] = "Мои заявки";
+}
+
+<h1>Мои заявки</h1>
+
+<p>
+    <a asp-action="CreateService" class="btn btn-success">Новая заявка</a>
+</p>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">У вас пока нет заявок.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Название</th>
+                <th>Описание</th>
+                <th>Статус</th>
+                <th>Дата</th>
+                <th>Мастер</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Title</td>
+                    <td>@s.Description</td>
+                    <td>
+                        @if (s.Status == "Pending")
+                        {
+                            <span class="badge bg-warning">Ожидание</span>
+                        }
+                        else if (s.Status == "InProgress")
+                        {
+                            <span class="badge bg-primary">В работе</span>
+                        }
+                        else if (s.Status == "Completed")
+                        {
+                            <span class="badge bg-success">Выполнено</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">@s.Status</span>
+                        }
+                    </td>
+                    <td>@s.CreatedDate.ToShortDateString()</td>
+                    <td>@(s.Master?.Email ?? "не назначен")</td>
+                    <td class="text-nowrap">
+                        <a asp-action="EditService" asp-route-id="@s.Id" class="btn btn-sm btn-warning">Редактировать</a>
+                        <form asp-action="DeleteService" asp-route-id="@s.Id" method="post" class="d-inline">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Удалить заявку?');">
+                                Удалить
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

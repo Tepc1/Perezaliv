@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Главная";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Добро пожаловать в PC Retail</h1>
+    <p>Сервис конфигурации ПК и заявок на обслуживание</p>
+    @if (!User.Identity.IsAuthenticated)
+    {
+        <a asp-controller="Account" asp-action="Login" class="btn btn-primary">Войти</a>
+    }
+    else
+    {
+        <div class="row mt-5">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Конфигуратор ПК</h5>
+                        <p class="card-text">Соберите свою идеальную сборку</p>
+                        <a asp-controller="Configurator" asp-action="Index" class="btn btn-primary">Перейти</a>
+                    </div>
+                </div>
+            </div>
+            @if (User.IsInRole("Client"))
+            {
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Заявки на услуги</h5>
+                            <p class="card-text">Создайте заявку мастеру</p>
+                            <a asp-controller="Services" asp-action="Client" class="btn btn-primary">Мои заявки</a>
+                        </div>
+                    </div>
+                </div>
+            }
+            @if (User.IsInRole("Master"))
+            {
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Заявки мастеру</h5>
+                            <p class="card-text">Управляйте назначенными заявками</p>
+                            <a asp-controller="Services" asp-action="Master" class="btn btn-primary">Заявки</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

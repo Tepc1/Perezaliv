@@ -1,0 +1,81 @@
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using PCRETAIL.Data;
+using PCRETAIL.Models;
+using System.Security.Claims;
+
+namespace PCRETAIL.Controllers
+{
+    [Authorize]
+    public class ServicesController : Controller
+    {
+        private readonly AppDbContext _context;
+
+        public ServicesController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        [Authorize(Roles = "Client")]
+        public IActionResult Client()
+        {
+            var userId = GetCurrentUserId();
+            var services = _context.Services
+                .Include(s => s.Master)
+                .Where(s => s.ClientId == userId)
+                .ToList();
+            return View(services);
+        }
+
+        [Authorize(Roles = "Client")]
+        public IActionResult CreateService() => View();
+
+        [HttpPost]
+        [Authorize(Roles = "Client")]
+        public async Task<IActionResult> CreateService(Service model)
+        {
+            if (ModelState.IsValid)
+            {
+                model.ClientId = GetCurrentUserId();
+                model.Status = "Pending";
+                model.CreatedDate = DateTime.Now;
+
+                _context.Services.Add(model);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Client));
+            }
+
+            return View(model);
+        }
+
+        [Authorize(Roles = "Master")]
+        public IActionResult Master()
+        {
+            var userId = GetCurrentUserId();
+            var services = _context.Services
+                .Include(s => s.Client)
+                .Where(s => s.MasterId == userId)
+                .ToList();
+            return View(services);
+        }
+
+        [Authorize(Roles = "Master")]
+        [HttpPost]
+        public async Task<IActionResult> UpdateStatus(int id, string status)
+        {
+            var service = await _context.Services.FindAsync(id);
+            if (service != null && service.MasterId == GetCurrentUserId())
+            {
+                service.Status = status;
+                await _context.SaveChangesAsync();
+            }
+            return RedirectToAction(nameof(Master));
+        }
+
+        private int GetCurrentUserId()
+        {
+            return int.Parse(User.FindFirstValue("UserId"));
+        }
+    }
+}

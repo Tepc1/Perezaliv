@@ -1,0 +1,34 @@
+﻿using Microsoft.EntityFrameworkCore;
+using PCRETAIL.Models;
+
+namespace PCRETAIL.Data
+{
+    public class AppDbContext : DbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
+        public DbSet<User> Users { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<Component> Components { get; set; }
+        public DbSet<PcConfiguration> PcConfigurations { get; set; }
+        public DbSet<Service> Services { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<ConfigurationComponent>()
+                .HasKey(cc => new { cc.ConfigurationId, cc.ComponentId });
+
+            modelBuilder.Entity<ConfigurationComponent>()
+                .HasOne(cc => cc.Configuration)
+                .WithMany(c => c.ConfigurationComponents)
+                .HasForeignKey(cc => cc.ConfigurationId);
+
+            modelBuilder.Entity<ConfigurationComponent>()
+                .HasOne(cc => cc.Component)
+                .WithMany(c => c.ConfigurationComponents)
+                .HasForeignKey(cc => cc.ComponentId);
+        }
+    }
+}

@@ -1,0 +1,104 @@
+@model PCRETAIL.Models.PcConfiguration
+@{
+    ViewData["Title"] = "Новая сборка";
+    var components = (ViewBag.Components as IEnumerable<PCRETAIL.Models.Component>) ?? Enumerable.Empty<PCRETAIL.Models.Component>();
+    var imageOptions = (ViewBag.ImageOptions as IEnumerable<string>) ?? Enumerable.Empty<string>();
+    var statuses = new[]
+    {
+        new { Value = "Pending", Label = "Ожидание" },
+        new { Value = "InProgress", Label = "В работе" },
+        new { Value = "Completed", Label = "Выполнено" }
+    };
+    var types = new[] { "CPU", "GPU", "RAM", "PSU", "Motherboard", "Case", "Storage", "Cooling", "Other" };
+}
+
+<h1>Создание новой сборки</h1>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-md-6">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Category" class="form-label"></label>
+                <input asp-for="Category" class="form-control" />
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Status" class="form-label">Статус готовности</label>
+                <select asp-for="Status" class="form-select">
+                    @foreach (var status in statuses)
+                    {
+                        <option value="@status.Value">@status.Label</option>
+                    }
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ImagePath" class="form-label">Изображение сборки (опционально)</label>
+                <select asp-for="ImagePath" class="form-select">
+                    <option value="">(без изображения)</option>
+                    @foreach (var img in imageOptions)
+                    {
+                        <option value="@img">@img</option>
+                    }
+                </select>
+                <span asp-validation-for="ImagePath" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+
+    <h4 class="mt-4">Выберите комплектующие</h4>
+    <p class="text-muted">Для каждого типа можно выбрать только одно комплектующее.</p>
+    <div class="row">
+        @foreach (var type in types)
+        {
+            <div class="col-md-4 mb-3">
+                <label class="form-label fw-bold">@type</label>
+                <div class="border p-2" style="max-height: 220px; overflow-y: auto;">
+                    @foreach (var comp in components.Where(c => c.Type == type))
+                    {
+                        <div class="form-check">
+                            <input class="form-check-input js-single-component"
+                                   data-component-type="@type"
+                                   type="checkbox"
+                                   name="selectedComponents"
+                                   value="@comp.Id"
+                                   id="comp_@comp.Id" />
+                            <label class="form-check-label" for="comp_@comp.Id">
+                                @comp.Name - @comp.Price руб.
+                            </label>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить сборку</button>
+    <a asp-action="Index" class="btn btn-secondary">Отмена</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.querySelectorAll('.js-single-component').forEach(function (checkbox) {
+            checkbox.addEventListener('change', function () {
+                if (!this.checked) {
+                    return;
+                }
+
+                var type = this.dataset.componentType;
+                document.querySelectorAll('.js-single-component[data-component-type="' + type + '"]').forEach(function (item) {
+                    if (item !== checkbox) {
+                        item.checked = false;
+                    }
+                });
+            });
+        });
+    </script>
+}

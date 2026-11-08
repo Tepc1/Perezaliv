@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charik\\Desktop\\PP06\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE3B0D-D782-39EF-85CC-89AB7491A002}|PCRETAIL.csproj|c:\\users\\charik\\desktop\\pp06\\pcretailsite\\pcretail\\pcretail\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CCE3B0D-D782-39EF-85CC-89AB7491A002}|PCRETAIL.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE3B0D-D782-39EF-85CC-89AB7491A002}|PCRETAIL.csproj|c:\\users\\charik\\desktop\\pp06\\pcretailsite\\pcretail\\pcretail\\pcretail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9CCE3B0D-D782-39EF-85CC-89AB7491A002}|PCRETAIL.csproj|solutionrelative:pcretail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\charik\\Desktop\\PP06\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\charik\\Desktop\\PP06\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-08T23:04:21.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCRETAIL",
+              "DocumentMoniker": "C:\\Users\\charik\\Desktop\\PP06\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\PCRETAIL.csproj",
+              "RelativeDocumentMoniker": "PCRETAIL.csproj",
+              "ToolTip": "C:\\Users\\charik\\Desktop\\PP06\\PCRETAILSITE\\PCRETAIL\\PCRETAIL\\PCRETAIL.csproj",
+              "RelativeToolTip": "PCRETAIL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-08T23:04:14.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

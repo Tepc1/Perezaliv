@@ -1,0 +1,85 @@
+@model PCRETAIL.Models.Component
+@{
+    ViewData["Title"] = "Редактирование комплектующего";
+    var componentTypes = (ViewBag.ComponentTypes as IEnumerable<string>) ?? Enumerable.Empty<string>();
+    var componentImageOptions = (ViewBag.ComponentImageOptions as IEnumerable<string>) ?? Enumerable.Empty<string>();
+    var currentComponentImageUrl = ViewBag.CurrentComponentImageUrl as string;
+}
+
+<h1>Редактирование комплектующего</h1>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-body">
+                @if (TempData["ErrorMessage"] is string errorMessage)
+                {
+                    <div class="alert alert-danger">@errorMessage</div>
+                }
+
+                <form asp-action="EditComponent" method="post">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" asp-for="Id" />
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Type" class="form-label"></label>
+                        <select asp-for="Type" class="form-select">
+                            <option value="">Выберите тип</option>
+                            @foreach (var type in componentTypes)
+                            {
+                                <option value="@type">@type</option>
+                            }
+                        </select>
+                        <span asp-validation-for="Type" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Price" class="form-label"></label>
+                        <input asp-for="Price" class="form-control" type="number" min="0" step="0.01" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="ImagePath" class="form-label">Изображение</label>
+                        @if (!string.IsNullOrWhiteSpace(currentComponentImageUrl))
+                        {
+                            <div class="mb-2">
+                                <img src="@currentComponentImageUrl" alt="@Model.Name" class="img-thumbnail" style="max-height: 150px;" />
+                            </div>
+                        }
+                        <select asp-for="ImagePath" class="form-select">
+                            <option value="">(без изображения)</option>
+                            @foreach (var image in componentImageOptions)
+                            {
+                                <option value="@image">@image</option>
+                            }
+                        </select>
+                        <div class="form-text">Показываются только файлы из папки Pictures\PCRETAILIMAGES\COMPONENTS.</div>
+                        <span asp-validation-for="ImagePath" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Сохранить изменения</button>
+                    <a asp-action="Components" class="btn btn-secondary">Назад</a>
+                </form>
+
+                <hr class="my-4" />
+
+                <form asp-action="DeleteComponent" asp-route-id="@Model.Id" method="post" onsubmit="return confirm('Удалить это комплектующее?');">
+                    @Html.AntiForgeryToken()
+                    <button type="submit" class="btn btn-outline-danger">Удалить комплектующее</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

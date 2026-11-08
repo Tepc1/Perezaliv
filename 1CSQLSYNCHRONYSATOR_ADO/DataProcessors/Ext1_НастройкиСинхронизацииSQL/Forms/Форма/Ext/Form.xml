@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Title>
+		<v8:item>
+			<v8:lang>ru</v8:lang>
+			<v8:content>Настройки синхронизации SQL</v8:content>
+		</v8:item>
+	</Title>
+	<AutoTitle>false</AutoTitle>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
+		<Autofill>false</Autofill>
+	</AutoCommandBar>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
+	<ChildItems>
+		<InputField name="СтрокаПодключения" id="1">
+			<DataPath>СтрокаПодключения</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ContextMenu name="СтрокаПодключенияКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="СтрокаПодключенияРасширеннаяПодсказка" id="3"/>
+		</InputField>
+		<CheckBoxField name="СинхронизироватьПриЗаписи" id="4">
+			<DataPath>СинхронизироватьПриЗаписи</DataPath>
+			<EditMode>Directly</EditMode>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="СинхронизироватьПриЗаписиКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="СинхронизироватьПриЗаписиРасширеннаяПодсказка" id="6"/>
+		</CheckBoxField>
+		<CheckBoxField name="СинхронизироватьПриЗапуске" id="13">
+			<DataPath>СинхронизироватьПриЗапуске</DataPath>
+			<EditMode>Directly</EditMode>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="СинхронизироватьПриЗапускеКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="СинхронизироватьПриЗапускеРасширеннаяПодсказка" id="15"/>
+		</CheckBoxField>
+		<CheckBoxField name="ИспользоватьРегламентноеЗадание" id="7">
+			<DataPath>ИспользоватьРегламентноеЗадание</DataPath>
+			<EditMode>Directly</EditMode>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="ИспользоватьРегламентноеЗаданиеКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ИспользоватьРегламентноеЗаданиеРасширеннаяПодсказка" id="9"/>
+		</CheckBoxField>
+		<InputField name="ИнтервалМинут" id="10">
+			<DataPath>ИнтервалМинут</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ContextMenu name="ИнтервалМинутКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="ИнтервалМинутРасширеннаяПодсказка" id="12"/>
+		</InputField>
+		<Table name="ТаблицаОбъектов" id="16">
+			<Representation>List</Representation>
+			<AutoInsertNewRow>false</AutoInsertNewRow>
+			<DataPath>ТаблицаОбъектов</DataPath>
+			<ContextMenu name="ТаблицаОбъектовКонтекстноеМеню" id="17"/>
+			<AutoCommandBar name="ТаблицаОбъектовКоманднаяПанель" id="18">
+				<Autofill>false</Autofill>
+			</AutoCommandBar>
+			<ExtendedTooltip name="ТаблицаОбъектовРасширеннаяПодсказка" id="19"/>
+			<SearchStringAddition name="ТаблицаОбъектовСтрокаПоиска" id="20">
+				<AdditionSource>
+					<Item>ТаблицаОбъектов</Item>
+					<Type>SearchStringRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ТаблицаОбъектовСтрокаПоискаКонтекстноеМеню" id="21"/>
+				<ExtendedTooltip name="ТаблицаОбъектовСтрокаПоискаРасширеннаяПодсказка" id="22"/>
+			</SearchStringAddition>
+			<ViewStatusAddition name="ТаблицаОбъектовСостояниеПросмотра" id="23">
+				<AdditionSource>
+					<Item>ТаблицаОбъектов</Item>
+					<Type>ViewStatusRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ТаблицаОбъектовСостояниеПросмотраКонтекстноеМеню" id="24"/>
+				<ExtendedTooltip name="ТаблицаОбъектовСостояниеПросмотраРасширеннаяПодсказка" id="25"/>
+			</ViewStatusAddition>
+			<SearchControlAddition name="ТаблицаОбъектовУправлениеПоиском" id="26">
+				<AdditionSource>
+					<Item>ТаблицаОбъектов</Item>
+					<Type>SearchControl</Type>
+				</AdditionSource>
+				<ContextMenu name="ТаблицаОбъектовУправлениеПоискомКонтекстноеМеню" id="27"/>
+				<ExtendedTooltip name="ТаблицаОбъектовУправлениеПоискомРасширеннаяПодсказка" id="28"/>
+			</SearchControlAddition>
+			<ChildItems>
+				<CheckBoxField name="ТаблицаОбъектовИспользовать" id="29">
+					<DataPath>ТаблицаОбъектов.Использовать</DataPath>
+					<EditMode>Directly</EditMode>
+					<CheckBoxType>Auto</CheckBoxType>
+					<ContextMenu name="ТаблицаОбъектовИспользоватьКонтекстноеМеню" id="30"/>
+					<ExtendedTooltip name="ТаблицаОбъектовИспользоватьРасширеннаяПодсказка" id="31"/>
+				</CheckBoxField>
+				<InputField name="ТаблицаОбъектовСиноним" id="32">
+					<DataPath>ТаблицаОбъектов.Синоним</DataPath>
+					<ReadOnly>true</ReadOnly>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТаблицаОбъектовСинонимКонтекстноеМеню" id="33"/>
+					<ExtendedTooltip name="ТаблицаОбъектовСинонимРасширеннаяПодсказка" id="34"/>
+				</InputField>
+				<InputField name="ТаблицаОбъектовПолноеИмя" id="35">
+					<DataPath>ТаблицаОбъектов.ПолноеИмя</DataPath>
+					<ReadOnly>true</ReadOnly>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТаблицаОбъектовПолноеИмяКонтекстноеМеню" id="36"/>
+					<ExtendedTooltip name="ТаблицаОбъектовПолноеИмяРасширеннаяПодсказка" id="37"/>
+				</InputField>
+			</ChildItems>
+		</Table>
+		<UsualGroup name="ГруппаКнопки" id="38">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Кнопки</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Кнопки</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>AlwaysHorizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ThroughAlign>Use</ThroughAlign>
+			<ExtendedTooltip name="ГруппаКнопкиРасширеннаяПодсказка" id="39"/>
+			<ChildItems>
+				<Button name="ВыбратьВсе" id="40">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.ВыбратьВсе</CommandName>
+					<ExtendedTooltip name="ВыбратьВсеРасширеннаяПодсказка" id="41"/>
+				</Button>
+				<Button name="СнятьВсе" id="42">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.СнятьВсе</CommandName>
+					<ExtendedTooltip name="СнятьВсеРасширеннаяПодсказка" id="43"/>
+				</Button>
+				<Button name="Сохранить" id="44">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Сохранить</CommandName>
+					<ExtendedTooltip name="СохранитьРасширеннаяПодсказка" id="45"/>
+				</Button>
+				<Button name="Запустить" id="46">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Запустить</CommandName>
+					<ExtendedTooltip name="ЗапуститьРасширеннаяПодсказка" id="47"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:DataProcessorObject.Ext1_НастройкиСинхронизацииSQL</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+		</Attribute>
+		<Attribute name="СтрокаПодключения" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Строка подключения к SQL</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>500</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ТаблицаОбъектов" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Объекты для синхронизации</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>v8:ValueTable</v8:Type>
+			</Type>
+			<Columns>
+				<Column name="Использовать" id="1">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Использовать</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Column>
+				<Column name="Синоним" id="2">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Синоним</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>200</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="ПолноеИмя" id="3">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Полное имя</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>200</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+			</Columns>
+		</Attribute>
+		<Attribute name="СинхронизироватьПриЗаписи" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Синхронизировать после записи объектов</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="ИспользоватьРегламентноеЗадание" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Использовать регламентное задание</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="ИнтервалМинут" id="6">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Интервал регламентного задания, минут</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:decimal</v8:Type>
+				<v8:NumberQualifiers>
+					<v8:Digits>4</v8:Digits>
+					<v8:FractionDigits>0</v8:FractionDigits>
+					<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+				</v8:NumberQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="СинхронизироватьПриЗапуске" id="7">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Синхронизировать при запуске системы</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
+	</Attributes>
+	<Commands>
+		<Command name="ВыбратьВсе" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выбрать все</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выбрать все</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ВыбратьВсе</Action>
+		</Command>
+		<Command name="СнятьВсе" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Снять все</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Снять все</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>СнятьВсе</Action>
+		</Command>
+		<Command name="Сохранить" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сохранить</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сохранить настройки и применить расписание</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>Сохранить</Action>
+		</Command>
+		<Command name="Запустить" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Запустить полную синхронизацию</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сохранить настройки и запустить полную синхронизацию в фоне</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>Запустить</Action>
+		</Command>
+	</Commands>
+</Form>
