@@ -10,9 +10,10 @@
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<!-- ВАЖНО: в Source нужно добавить все справочники и документы.
-			     Сделайте это в конфигураторе: Подписка на событие → Источник → отметьте все справочники и документы. -->
-			<Source/>
+			<Source>
+				<v8:TypeSet>cfg:CatalogObject</v8:TypeSet>
+				<v8:TypeSet>cfg:DocumentObject</v8:TypeSet>
+			</Source>
 			<Event>OnWrite</Event>
 			<Handler>CommonModule.Ext1_СинхронизацияSQL.ПриЗаписиОбъекта</Handler>
 		</Properties>
